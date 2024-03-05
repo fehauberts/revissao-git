@@ -1,1 +1,2 @@
-o gremio vai sair campeao!
+// teste de console
+console.log("Batman");
